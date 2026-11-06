@@ -29,18 +29,18 @@
 
 ## 边界
 
-不把赠予当人情债；不以联系次数衡量信任；不把付费当交付完成；低频业务无需复购。作者的收入故事不代表这套方法的预期效果。
+不把赠予当人情债；不以联系次数衡量信任；不把付费当交付完成；低频业务无需复购。个案中的收入结果不代表这套方法的预期效果。
 
 - [执行规范](SKILL.md)
-- [方法来源](references/sources.md)
+- [方法笔记](references/methods.md)
 
-## 2026 年星球增补
+## 补充用法
 
 回访区分理解、执行与新需求；贡献引用和关系价值仅在实际需要时加入。调用示例：
 
 > 使用 $lany-trust-relationship-skill。客户说模板“看懂了但用不上”，请据此拟一份回访和修复方案，先解决原承诺，不急着推新服务。
 
-[星球方法来源及取舍](references/zsxq-2026.md)。以上调用均为演示，非用户已发生的案例。
+[方法笔记](references/methods.md)。以上调用均为演示，非用户已发生的案例。
 
 ## 独立仓库与安装
 
@@ -55,4 +55,4 @@ git clone https://github.com/LanyXiaosheng/lany-trust-relationship-skill.git ~/.
 
 已设置 `CODEX_HOME` 时，将目标改为该目录下的 `skills/lany-trust-relationship-skill`。已有同名技能时先比较或备份，不覆盖。客户端发现技能后，使用 `$lany-trust-relationship-skill` 调用。
 
-初次拆分的提交历史继续保留；当前工作版本已纳入2026年知识星球增强方法。
+当前版本附自包含方法笔记，无需访问外部原文；现有仓库提交历史保留。
