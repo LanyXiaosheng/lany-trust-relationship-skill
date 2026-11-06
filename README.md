@@ -34,6 +34,14 @@
 - [执行规范](SKILL.md)
 - [方法来源](references/sources.md)
 
+## 2026 年星球增补
+
+回访区分理解、执行与新需求；贡献引用和关系价值仅在实际需要时加入。调用示例：
+
+> 使用 $lany-trust-relationship-skill。客户说模板“看懂了但用不上”，请据此拟一份回访和修复方案，先解决原承诺，不急着推新服务。
+
+[星球方法来源及取舍](references/zsxq-2026.md)。以上调用均为演示，非用户已发生的案例。
+
 ## 独立仓库与安装
 
 仓库：[lany-trust-relationship-skill](https://github.com/LanyXiaosheng/lany-trust-relationship-skill)。本仓库根目录即技能目录，包含 `SKILL.md`、本说明及 `references/`。
@@ -47,4 +55,4 @@ git clone https://github.com/LanyXiaosheng/lany-trust-relationship-skill.git ~/.
 
 已设置 `CODEX_HOME` 时，将目标改为该目录下的 `skills/lany-trust-relationship-skill`。已有同名技能时先比较或备份，不覆盖。客户端发现技能后，使用 `$lany-trust-relationship-skill` 调用。
 
-本独立库从[合集的已发布版本](https://github.com/LanyXiaosheng/lany-creator-skills/tree/367cd21c5417300c8122fe25ef4ff2e4d3f8bd3f)拆分，保留原有来源归属。浏览其他技能可进入[合集](https://github.com/LanyXiaosheng/lany-creator-skills)。
+初次拆分的提交历史继续保留；当前工作版本已纳入2026年知识星球增强方法。
